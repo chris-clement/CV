@@ -21,14 +21,14 @@ _Financial Analyst_
 **JP Morgan** (August 2016 to May 2020)  
 _Finance Associate_
 
-- Completed the three year graduate scheme covering roles in UK Regulatory Reporting to the Bank of England, PnL Reporting to the Equities Exotics Derivatives trading desk, Valuation Control for the Currencies and Emerging Markets Rates trading desk. Subsequently offered a permanent role within the Valuation Control team.
+- Completed the three year Graduate scheme covering roles in UK Regulatory Reporting to the Bank of England, PnL Reporting to the Equities Exotics Derivatives trading desk, Valuation Control for the Currencies and Emerging Markets Rates trading desk. Subsequently offered a permanent role within the Valuation Control team.
 - Gained promotion a year early in my second rotation due to strong performance.
 
 **JP Morgan** (June 2015 to September 2015)
 _Summer Intern_
 
 - Employed within the PnL reporting team for Equity Capital Markets.  Worked with a wide range of departments within Finance, gained strong technical skills in excel and other reporting software. 
-- Showcased my communication skills through a formal presentation to senior management which resulted in me being offered to enroll on the graduate scheme.
+- Showcased my communication skills through a formal presentation to senior management which resulted in me being offered to enroll on the Graduate scheme.
 
 ## Skills
 
@@ -78,7 +78,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Chartered Institute of Management Accountants (2016 to 2020)
 
-- Completed alongside the JP Morgan graduate scheme.  
+- Completed alongside the JP Morgan Graduate scheme.  
 
 ## Hobbies
 
