@@ -83,3 +83,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Hobbies
 
 In my free time I enjoy playing tennis regularly, attempting to play golf, going skiing when I can, cooking food from around the world and travelling to new countries. 
+
+## Contact Details
+
+E-mail: chris.clement1995@gmail.com
+Tel: 07946180718
