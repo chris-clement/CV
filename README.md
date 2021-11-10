@@ -1,6 +1,6 @@
-## Your Name
+## Chris Clement
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am an enthusiastic team player looking for a new challenge in the exciting world of Tech. Looking to use my 5 years of experience working in Finance across Investment Banking and Hedge Funds but in a more technical role.  
 
 ## Projects
 
@@ -11,15 +11,24 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Eisler Capital** (May 2020 to August 2021)  
+_Financial Analyst_
+
+- 
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**JP Morgan** (August 2016 to May 2020)  
+_Finance Associate_
 
-- Any experience relevent to software development
+- Completed the three year graduate scheme covering roles in UK Regulatory Reporting to the Bank of England, PnL Reporting to the Equities Exotics Derivatives trading desk, Valuation Control for the Currencies and Emerging Markets Rates trading desk. Subsequently offered a permanent role within the Valuation Control team.
+- Gained promotion a year early in my second rotation due to strong performance.
+
+**JP Morgan** (June 2015 to September 2015)
+_Summer Intern_
+
+- Employed within the PnL reporting team for Equity Capital Markets.  Worked with a wide range of departments within Finance, gained strong technical skills in excel and other reporting software. 
+- Showcased my communication skills through a formal presentation to senior management which resulted in me being offered to enroll on the graduate scheme.
 
 ## Skills
 
