@@ -14,9 +14,9 @@ I am an enthusiastic team player looking for a new challenge in the exciting wor
 **Eisler Capital** (May 2020 to August 2021)  
 _Financial Analyst_
 
-- 
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Daily PnL reporting and Valuation Control for a Hedge Fund with $4Bn AUM. Worked within a small team of 3 people supporting 40+ Traders encompassing vanilla and a substantial exotics portfolio across Rates, Credit, Equities +. 
+- Business grew enormously in the time I was there. Worked closely with Quants to develop systems to make processes more efficient given that the support functions were not being expanded. 
+- Gained greater business understanding going from a large IB employing 250,000+ to a smaller start-up employing less than 100 people. Regularly liaised with CFO and CTO on projects and had to work under high pressure for long hours.
 
 **JP Morgan** (August 2016 to May 2020)  
 _Finance Associate_
