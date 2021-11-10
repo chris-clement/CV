@@ -62,25 +62,24 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (October 2021 to Present)
+- 12-week intensive coding bootcamp, learning best practices and agile methodologies:
+- Software craftsmanship
+- OOP, TDD, SOLID, MVC, DDD
+- Ruby, Rails, Javascript, Node.js, Angular.js
+- Rspec, Jasmine, Mocha
+- Create and consume RESTful APIs
 
-#### Your University / College (start_date to end_date)
+#### The University of Bristol (2013 to 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Mathematics & Economics BSc (Hons)
+- Achieved a first.
+- Completed modules in Microeconomics, Macroeconomics, Econometrics, Accounting, Analysis, Probability, Statistics, Calculus, Optimisation, Time Series Analysis.
 
-#### Any other qualifications
+#### Chartered Institute of Management Accountants (2016 to 2020)
 
-That in some arguable way make you a better software developer or well-rounded person
+- Completed alongside the JP Morgan graduate scheme.  
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+In my free time I enjoy playing tennis regularly, attempting to play golf, going skiing when I can, cooking food from around the world and travelling to new countries. 
