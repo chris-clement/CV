@@ -24,7 +24,7 @@ _Finance Associate_
 - Completed the three year Graduate scheme covering roles in UK Regulatory Reporting to the Bank of England, PnL Reporting to the Equities Exotics Derivatives trading desk, Valuation Control for the Currencies and Emerging Markets Rates trading desk. Subsequently offered a permanent role within the Valuation Control team.
 - Gained promotion a year early in my second rotation due to strong performance.
 
-**JP Morgan** (June 2015 to September 2015)
+**JP Morgan** (June 2015 to September 2015)  
 _Summer Intern_
 
 - Employed within the PnL reporting team for Equity Capital Markets.  Worked with a wide range of departments within Finance, gained strong technical skills in excel and other reporting software. 
