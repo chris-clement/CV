@@ -62,23 +62,23 @@ _Summer Intern_
 
 ## Education
 
-#### Makers Academy (October 2021 to Present)
+#### Makers Academy (October 2021 to February 2022)
 - 12-week intensive coding bootcamp, learning best practices and agile methodologies:
 - Software craftsmanship
-- OOP, TDD, SOLID, MVC, DDD
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
-- Create and consume RESTful APIs
+- OOP, TDD, MVC
+- Ruby, Rails, Javascript, Node.js
+- Rspec, Jest, Mocha
+- Working closely with RESTful APIs
+
+#### Chartered Institute of Management Accountants (2016 to 2020)
+
+- Completed alongside the JP Morgan Graduate scheme.  
 
 #### The University of Bristol (2013 to 2016)
 
 - Mathematics & Economics BSc (Hons)
 - Achieved a first.
 - Completed modules in Microeconomics, Macroeconomics, Econometrics, Accounting, Analysis, Probability, Statistics, Calculus, Optimisation, Time Series Analysis.
-
-#### Chartered Institute of Management Accountants (2016 to 2020)
-
-- Completed alongside the JP Morgan Graduate scheme.  
 
 ## Hobbies
 
