@@ -40,7 +40,7 @@ _Summer Intern_
 - 12-week intensive coding bootcamp, learning best practices and agile methodologies:
 - Software craftsmanship
 - OOP, TDD, MVC
-- Ruby, Rails, Javascript, Node.js
+- Ruby, Rails, Sinatra, Javascript, Node.js
 - Rspec, Jest, Mocha
 - Working closely with RESTful APIs
 
