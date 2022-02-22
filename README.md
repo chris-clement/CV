@@ -1,5 +1,7 @@
 ## Chris Clement
 
+[Projects](#projects) | [Experience](#experience) |[Education](#education) | [Skills](#skills) | [Hobbies and Interests](#hobbies and interests) | [Contact Details](#contact details)
+
 I am an enthusiastic team player looking for a new challenge in the exciting world of Tech. Looking to use my 5 years of experience working in Finance across Investment Banking and Hedge Funds but in a more technical role.  
 
 ## Projects
@@ -11,7 +13,7 @@ I am an enthusiastic team player looking for a new challenge in the exciting wor
 | [**MakersBnB**](https://github.com/chris-clement/MakersBnB) | AirBnB clone | Ruby, Sinatra, PostgreSQL            |
 | [**Chitter**](https://github.com/chris-clement/chitter-challenge) | Twitter clone | Ruby, Sinatra, PostgreSQL            |
 
-## Work Experience
+## Experience
 
 **Eisler Capital** (May 2020 to August 2021)  
 _Financial Analyst_
@@ -31,6 +33,26 @@ _Summer Intern_
 
 - Employed within the PnL reporting team for Equity Capital Markets.  Worked with a wide range of departments within Finance, gained strong technical skills in excel and other reporting software. 
 - Showcased my communication skills through a formal presentation to senior management which resulted in me being offered to enroll on the Graduate scheme.
+
+## Education
+
+#### Makers Academy (October 2021 to February 2022)
+- 12-week intensive coding bootcamp, learning best practices and agile methodologies:
+- Software craftsmanship
+- OOP, TDD, MVC
+- Ruby, Rails, Javascript, Node.js
+- Rspec, Jest, Mocha
+- Working closely with RESTful APIs
+
+#### Chartered Institute of Management Accountants (2016 to 2020)
+
+- Completed alongside the JP Morgan Graduate scheme.  
+
+#### The University of Bristol (2013 to 2016)
+
+- Mathematics & Economics BSc (Hons)
+- Achieved a first.
+- Completed modules in Microeconomics, Macroeconomics, Econometrics, Accounting, Analysis, Probability, Statistics, Calculus, Optimisation, Time Series Analysis.
 
 ## Skills
 
@@ -62,27 +84,7 @@ _Summer Intern_
 
 - This resulted in us being able to handle a larger volume of data and therefore support more of the business in the same amount of time.
 
-## Education
-
-#### Makers Academy (October 2021 to February 2022)
-- 12-week intensive coding bootcamp, learning best practices and agile methodologies:
-- Software craftsmanship
-- OOP, TDD, MVC
-- Ruby, Rails, Javascript, Node.js
-- Rspec, Jest, Mocha
-- Working closely with RESTful APIs
-
-#### Chartered Institute of Management Accountants (2016 to 2020)
-
-- Completed alongside the JP Morgan Graduate scheme.  
-
-#### The University of Bristol (2013 to 2016)
-
-- Mathematics & Economics BSc (Hons)
-- Achieved a first.
-- Completed modules in Microeconomics, Macroeconomics, Econometrics, Accounting, Analysis, Probability, Statistics, Calculus, Optimisation, Time Series Analysis.
-
-## Hobbies
+## Hobbies and Interests
 
 In my free time I enjoy playing tennis regularly, attempting to play golf, going skiing when I can, cooking food from around the world and travelling to new countries. 
 
