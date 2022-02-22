@@ -1,6 +1,6 @@
 ## Chris Clement
 
-[Projects](#projects) | [Experience](#experience) |[Education](#education) | [Skills](#skills) | [Hobbies and Interests](#hobbies and interests) | [Contact Details](#contact details)
+[Projects](#projects) | [Experience](#experience) | [Education](#education) | [Skills](#skills) | [Interests](#interests) | [Contact](#contact)
 
 I am an enthusiastic team player looking for a new challenge in the exciting world of Tech. Looking to use my 5 years of experience working in Finance across Investment Banking and Hedge Funds but in a more technical role.  
 
@@ -84,11 +84,11 @@ _Summer Intern_
 
 - This resulted in us being able to handle a larger volume of data and therefore support more of the business in the same amount of time.
 
-## Hobbies and Interests
+## Interests
 
 In my free time I enjoy playing tennis regularly, attempting to play golf, going skiing when I can, cooking food from around the world and travelling to new countries. 
 
-## Contact Details
+## Contact
 
 - E-mail: chris.clement1995@gmail.com
 - Tel: 07946180718
