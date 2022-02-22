@@ -6,8 +6,8 @@ I am an enthusiastic team player looking for a new challenge in the exciting wor
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [**Wormz**](https://github.com/chris-clement/wormz)            | A retro 2D Game inspired by Worms. | JavaScript, p5, Matter.js, Express, Node, HTML, CSS |
+| [**Acebook**](https://github.com/chris-clement/acebook-betterverse) | A Facebook clone | Ruby on Rails, SQLite            |
 
 ## Work Experience
 
