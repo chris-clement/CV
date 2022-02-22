@@ -7,9 +7,9 @@ I am an enthusiastic team player looking for a new challenge in the exciting wor
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [**Wormz**](https://github.com/chris-clement/wormz)            | A retro 2D Game inspired by Worms. | JavaScript, p5, Matter.js, Express, Node, HTML, CSS |
-| [**Acebook**](https://github.com/chris-clement/acebook-betterverse) | A Facebook clone | Ruby on Rails, SQLite            |
-| [**MakersBnB**](https://github.com/chris-clement/MakersBnB) | A AirBnB clone | Ruby, Sinatra, PostgreSQL            |
-| [**Chitter**](https://github.com/chris-clement/chitter-challenge) | A Twitter clone | Ruby, Sinatra, PostgreSQL            |
+| [**Acebook**](https://github.com/chris-clement/acebook-betterverse) | Facebook clone | Ruby on Rails, SQLite            |
+| [**MakersBnB**](https://github.com/chris-clement/MakersBnB) | AirBnB clone | Ruby, Sinatra, PostgreSQL            |
+| [**Chitter**](https://github.com/chris-clement/chitter-challenge) | Twitter clone | Ruby, Sinatra, PostgreSQL            |
 
 ## Work Experience
 
