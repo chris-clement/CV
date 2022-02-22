@@ -92,3 +92,4 @@ In my free time I enjoy playing tennis regularly, attempting to play golf, going
 
 - E-mail: chris.clement1995@gmail.com
 - Tel: 07946180718
+- [LinkedIn](https://www.linkedin.com/in/chris-clement-0b392b184)
